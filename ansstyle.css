@@ -1,0 +1,50 @@
+body{
+    background-image: url(stars3.jpg);
+    background-color: rgb(25, 26, 104);
+}
+.pp{
+display: block;
+font-family: cursive;
+}
+h3{
+    color: rgb(0, 255, 21);
+    font-family: cursive;
+}
+.abc{
+    font-style:inherit;
+    font-family: cursive;
+}
+.a{
+    position: relative;
+     left: 10px;
+     font-family: cursive;
+}
+.b{
+    position: relative;
+     left: 20px;
+     font-family: cursive;
+}
+.c{
+    position: relative;
+     top: -50px;
+     left: 200px;
+     font-family: cursive;
+}
+
+.d{
+    position: relative;
+     top: -50px;
+     font-family: cursive;
+     
+.e{
+    border: solid 2px black;
+    font-family: cursive;
+}
+.box{
+    border: dotted 2px red;
+    width: 500px;
+}
+.box > div{
+    border: solid 2px red;
+    border-radius: 5px;
+}
